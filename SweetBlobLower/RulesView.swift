@@ -23,6 +23,7 @@ struct RulesView: View {
                             
                             Image("arrow")
                                 .resizable()
+                                .frame(width: 10 , height: 8)
                                 .scaledToFit()
                         }
                     }
