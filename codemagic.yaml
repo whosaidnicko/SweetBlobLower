@@ -13,8 +13,8 @@ workflows:
          - certificate: certificateBonza2
       vars:
         BUNDLE_ID: "bon.eras.ohiew.sog"
-        XCODE_PROJECT: "SweetYumiFusion.xcodeproj"
-        XCODE_SCHEME: "SweetYumiFusion"
+        XCODE_PROJECT: "SweetBlobLower.xcodeproj"
+        XCODE_SCHEME: "SweetBlobLower"
         APP_STORE_APPLE_ID: 6739950150
       xcode: 16.0
 
